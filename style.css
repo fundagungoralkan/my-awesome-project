@@ -2,3 +2,15 @@
      text-align: center;
      color: blueviolet;
  }
+
+ img {
+     width: 50%;
+     margin: 0 auto;
+     display: block;
+ }
+
+ form {
+     margin: 0 auto;
+     display: block;
+     text-align: center;
+ }
